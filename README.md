@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Maria Tereza
 
-<!--
-**terezacolor-star/Terezacolor-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Gestão da Tecnologia da Informação  
+💻 Em transição de carreira para a área de TI  
+🐍 Atualmente aprendendo Python  
+🚀 Participante do projeto Codificadas - TCS  
+📚 Estudando Git, GitHub e lógica de programação  
 
-Here are some ideas to get you started:
+## Áreas de interesse
+- Dados
+- Big Data
+- Python
+- Tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente aprendendo
+- Python
+- Git e GitHub
+- SQL
+- Lógica de programação
